@@ -1,0 +1,68 @@
+/* *{
+    outline: 1px solid red;
+}* */
+
+
+/* header */
+
+.head-image{
+    height:200px;
+    width:1415px;
+
+
+}
+/* body */
+
+body{
+background-color: #00bfff;
+}
+
+h1{
+color: blueviolet;
+font-family: monospace;
+font-size: 40px;
+margin-top:0;
+
+}
+
+p{
+font-family: sans-serif;
+font-size:20px;
+
+}
+
+/* main container */
+
+.container{
+   margin: 0;
+   padding:0;
+   float: left;
+   clear: both;
+}
+
+
+.psychic{
+    margin-top:0;
+    padding:0;
+    display:inline-block;
+   
+    
+
+}
+
+.Psychic-image{
+ width: 280px;
+ height: 295px;
+ 
+ 
+}
+/* footer */
+
+footer{
+font-family:sans-serif;
+font-size:20px;
+font-style:oblique;
+color: blue; 
+left: 80px;
+
+}
